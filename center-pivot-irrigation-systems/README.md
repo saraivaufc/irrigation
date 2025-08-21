@@ -25,7 +25,7 @@ and create one **Image Collections**:
 
 ## Classification
 
-Open the script [center-pivot-irrigation-systems/semantic_segmentation.ipynb](https://colab.research.google.com/github/mapbiomas-brazil/irrigation/blob/mapbiomas50/center-pivot-irrigation-systems/semantic_segmentation.ipynb) in Google Colab and follow the instructions there.
+Open the script [center-pivot-irrigation-systems/semantic_segmentation.ipynb](https://colab.research.google.com/github/saraivaufc/irrigation/blob/mapbiomas50/center-pivot-irrigation-systems/semantic_segmentation.ipynb) in Google Colab and follow the instructions there.
 
 ## Post-processing
 
@@ -38,3 +38,4 @@ To run the post-processing, follow these steps:
 3. On **line 7** (variable `output`, set the path for the filtered result;
 
 4. Run the script.
+
